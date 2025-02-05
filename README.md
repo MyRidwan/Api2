@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=NEBOT RESELLER !;Explore the world of features!" /></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=XBOT RESELLER !;Explore the world of features!" /></p>
 
-![IMAGE](https://raw.githubusercontent.com/diah082/Nebotsell/main/Ne.jpg)
+![IMAGE](https://raw.githubusercontent.com/myridwan/Nebotsell/main/Ne.jpg)
 
 <br>
 <h2 align="center"> ✧ Join My WhatsApp Group For Support ✧ </h2>
 
 <h2 align="center">
-  <a href="https://gcwa.nevpn.site">
+  <a href="https://wa.me/6285691670272">
     <img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </h>
 <br>
 
 ### INSTALL BOT RESELLER 
-<pre><code>wget -q https://raw.githubusercontent.com/Diah082/Nebotsell/main/start && chmod +x start && ./start nebotsell
+<pre><code>wget -q https://raw.githubusercontent.com/myridwan/Api2/ipuk/start && chmod +x start && ./start xbotsell
 </code></pre>
 
 ### TESTED ON OS 
@@ -48,7 +48,7 @@
 
 Jika Anda memiliki pertanyaan atau masalah, silakan hubungi kami di
 
-<a href="https://t.me/newbie_store24" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6282326322300" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
+<a href="https://t.me/kytxz" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a href="https://wa.me/6282326322300" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
 <br>
 <h1 align="center"> ✧ Thanks To NEWBIE_STORE ✧ </h1>
 <br>
